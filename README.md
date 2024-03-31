@@ -1,7 +1,7 @@
 # Moonrise
 This is a simple, sort-of accurate program used to predict moonrise using the time of last moonrise and the distance from the moon to Earth.
 
-This program is purposefully simple and provides no protection for bad inputs. This is just a piece of a larger program
+This program is purposefully simple and provides no protection for bad inputs. This is just a piece of a larger program.
 
 Check out notes.pdf to gain more insight into the physics.
 
